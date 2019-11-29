@@ -8,6 +8,9 @@ html {
                   display: block;
                   background-color:Violet;
                   }
+  nav { 
+        display: block;
+       }
                   
    main {
        max-width: 50%;
